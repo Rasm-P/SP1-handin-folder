@@ -1,0 +1,6 @@
+entity\Customer_.class
+rest\CustomerEndpoint.class
+rest\ApplicationConfig.class
+entity\Customer.class
+facade\EntityFacade.class
+entity\EntityTested.class
